@@ -4,8 +4,6 @@
 
 ### The reason why I'm doing this is because the native versions are usually faster and consume less electricity.
 
-<br>
-
 # How to use
 
 ### You'll find all the apps in "app" folder, enjoy!
