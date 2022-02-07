@@ -1,0 +1,3 @@
+[submodule "app/facebook-messenger/caprine/originalCaprine"]
+	path = app/facebook-messenger/caprine/originalCaprine
+	url = https://github.com/sindresorhus/caprine
